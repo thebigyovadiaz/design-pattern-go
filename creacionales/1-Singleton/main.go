@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/thebigyovadiaz/design-pattern-go/creacionales/singleton/client_one"
-	"github.com/thebigyovadiaz/design-pattern-go/creacionales/singleton/client_two"
-	"github.com/thebigyovadiaz/design-pattern-go/creacionales/singleton/singleton"
+	"github.com/thebigyovadiaz/design-pattern-go/creacionales/1-Singleton/client_one"
+	"github.com/thebigyovadiaz/design-pattern-go/creacionales/1-Singleton/client_two"
+	"github.com/thebigyovadiaz/design-pattern-go/creacionales/1-Singleton/singleton"
 	"sync"
 )
 
